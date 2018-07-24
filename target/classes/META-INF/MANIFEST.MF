@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/scala-library-2.10.4.jar ./lib/junit-3.8.1.jar ./lib
+ /slf4j-api-1.7.6.jar ./lib/fastjson-1.2.47.jar ./lib/zookeeper-3.4.6.
+ jar ./lib/zkclient-0.3.jar ./lib/lz4-1.2.0.jar ./lib/jline-0.9.94.jar
+  ./lib/kafka-clients-0.8.2.2.jar ./lib/log4j-1.2.15.jar ./lib/snappy-
+ java-1.1.1.7.jar ./lib/slf4j-log4j12-1.6.1.jar ./lib/netty-3.7.0.Fina
+ l.jar ./lib/sigar-1.6.4.jar ./lib/metrics-core-2.2.0.jar ./lib/jopt-s
+ imple-3.2.jar ./lib/kafka_2.10-0.8.2.2.jar
+Main-Class: com.qa.sigar.SigarImpl
+
